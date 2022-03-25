@@ -19,7 +19,6 @@
   
   <div>
     <a href="https://www.linkedin.com/in/oliver-godoi-093b37193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:oliverjgodoy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://exercism.org/profiles/codeoj" target="_blank"><img src="https://img.shields.io/badge/-exercism-130b43?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
     <a href="https://pt.stackoverflow.com/users/264466/codeoj" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-f48024?style=for-the-badge&logo=Stackoverflow&logoColor=white" target="_blank"></a>
 </div>
