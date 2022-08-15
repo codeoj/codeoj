@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://github.com/codeoj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeoj&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeoj&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeoj&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   <img align="center" alt="Oj-Ex" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
