@@ -1,9 +1,0 @@
-{
-  "showLanguage": true,
-  "showRepoCount": true,
-  "showTechnologies": true,
-  "showStars": true,
-  "langCount": 5,
-  "repoCount": 10,
-  "languages": ["Elixir", "Python"]
-}
