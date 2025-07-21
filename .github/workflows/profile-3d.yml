@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: gumbobrot/github-profile-3d-contrib@0.7.2
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GH_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
